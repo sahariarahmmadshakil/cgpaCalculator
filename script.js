@@ -98,4 +98,7 @@ const cgpa=(datastractureMarks+calculasMarks+stasticsMarks)/3;
 console.log("Congraqtulations Your CGPA is:", cgpa.toFixed(2));
 
 
+// congratulation github done 
+
+
 
