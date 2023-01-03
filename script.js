@@ -100,5 +100,7 @@ console.log("Congraqtulations Your CGPA is:", cgpa.toFixed(2));
 
 // congratulation github done 
 
+// this is the process of github 
+
 
 
